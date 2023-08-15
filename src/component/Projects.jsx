@@ -57,9 +57,6 @@ const Projects = () => {
 				on the project, I anticipate learning even more in the process! 
 				Check out the source code on GitHub here:
 			</div>
-			<div>
-				<a href="https://github.com/Socram1/foodtruckpage" className='github-link'>[Food Truck Website]</a>
-			</div>
 		</div>
 	</div>
 	<div className='about-section'>
@@ -81,11 +78,11 @@ const Projects = () => {
 				excited to use it more in future projects! I also imported and used a TypeWriterJs plugin using npm 
 				to add a typewriter effect using React. It was a fun experience figuring out how it worked and 
 				plugging it into my page. I am happy with how the page looks overall. I improved
-				my JavaScript, JSX, and CSS skills immensley working on this project. Check out the source code on
+				my JavaScript, JSX, and CSS skills immensely working on this project. Check out the source code on
 				GitHub here:
 			</div>
 			<div>
-				<a href="https://github.com/Socram1/foodtruckpage" className='github-link'>[Portfolio Page]</a>
+				<a href="https://github.com/Socram1/Socram1.github.io" className='github-link'>[Portfolio Page]</a>
 			</div>
 		</div>
 	</div>
@@ -95,9 +92,9 @@ const Projects = () => {
 			<div className='desc'>
 				<p1>
 					<b>Capstone Project:</b> This is a project I and 4 other people from my boot camp class 
-					worked on for our capstone project. Our job was to create an website for a real-life client,
+					worked on for our capstone project. Our job was to create a website for a real-life client,
 					Gingerbread Timing, where race runners would log on to the site,
-					 sign up for races using the system we designed, and have information save into a database. 
+					 sign up for races using the system we designed, and have information saved into a database. 
 					What  Gingerbread Timing does is time races. To register users, they use a third party called
 					RunSignUp, that costs them a lot of money yearly. So, we were tasked with building a replacement
 					for them that would save them money and allow users to directly register on their site.
@@ -106,10 +103,10 @@ const Projects = () => {
 			<div className='learn-section'>
 				<b>What I learned:</b> It was my first time working with Next.js. I learned how routing works in Next.js,
 				 how things are laid out, and how to maneuver through it.
-				 I was put in charge of working on the front-end of things.
+				 I was put in charge of working on the front end of things.
 				It was also my first time working with JSX files. It was the first 
 				project I was working on for a real client, and I was blessed to work on it with four other great partners.
-				We used Jira as our issue tracking tool, which was new to all of us, and practiced the agile methodology
+				We used Jira as our issue-tracking tool, which was new to all of us, and practiced the agile methodology
 				throughout the whole project. We had daily stand-ups and communicated with the client to understand
 				their business needs. It was a fantastic learning experience! Check out the source code on GitHub here:
 			</div>
@@ -127,7 +124,7 @@ const Projects = () => {
 				<b>Sticky Notes:</b> An application I built with 2 other people in my group that allows users to type into 
 				an input field and have a sticky note pop out once they hit the submit button with their text. The 
 				stickies can be moved around the screen and organized however the user wants them. The information 
-				inside is store into a SQL database. The stack we used to build this application
+				inside is stored in a SQL database. The stack we used to build this application
 				is ASP.NET, MVC, C#, SQL, HTML, and CSS.
 				</p1>
 			</div>
