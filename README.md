@@ -1,3 +1,16 @@
+# Portfolio Page
+Designed and programmed a portfolio page showcasing my projects, skills, and contact information. I used React gh-pages to create the application. I implemented different packages into the program using NPM. I will continue to work on this page and update it as I gain different skills and experiences.
+
+# Tech Stack
+-React
+-JavaScript
+-HTML
+-CSS
+-JSX
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
