@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ecefa4ad.css",
-    "main.js": "/static/js/main.74fe9dce.js",
+    "main.js": "/static/js/main.042d2f45.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/foodtruckwebsite.jpg": "/static/media/foodtruckwebsite.ca8a9efd0766edac55fb.jpg",
     "static/media/portfolio.jpg": "/static/media/portfolio.643d4ab9b31c94eff120.jpg",
@@ -9,11 +9,11 @@
     "static/media/Gingerbread.jpg": "/static/media/Gingerbread.652edd7ad0983fa27742.jpg",
     "index.html": "/index.html",
     "main.ecefa4ad.css.map": "/static/css/main.ecefa4ad.css.map",
-    "main.74fe9dce.js.map": "/static/js/main.74fe9dce.js.map",
+    "main.042d2f45.js.map": "/static/js/main.042d2f45.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecefa4ad.css",
-    "static/js/main.74fe9dce.js"
+    "static/js/main.042d2f45.js"
   ]
 }
